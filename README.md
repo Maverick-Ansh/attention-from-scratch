@@ -1,5 +1,7 @@
 # Attention Is All You Need — Built From Scratch, Annotated
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maverick-Ansh/attention-from-scratch/blob/main/attention_from_scratch.ipynb)
+
 A pedagogical, end-to-end re-implementation of the Transformer ([Vaswani et al., 2017](https://arxiv.org/abs/1706.03762)) in **plain PyTorch** — every component built by hand, heavily annotated, and verified by actually training the model and looking inside its attention heads.
 
 > Built for understanding, not for reuse: nothing is hidden behind `nn.Transformer`. Each block has a theory cell explaining *why* the code is shaped the way it is, followed by runnable code whose output is captured in the notebook.
